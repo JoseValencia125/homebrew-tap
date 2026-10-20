@@ -24,4 +24,10 @@ cask "agents-pixel-dungeon" do
     "~/Library/Preferences/io.github.josevalencia125.agents-pixel-dungeon.plist",
   ]
 
+  caveats do
+    <<~EOS
+      The app watches the agents of Herdr (brew install herdr) and has a
+      viewer mode without it.
+    EOS
+  end
 end
