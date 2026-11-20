@@ -1,6 +1,6 @@
 cask "agents-pixel-dungeon" do
-  version "2.5.0"
-  sha256 "909154bb4ec78002163c6e63a17781f10335de975c272f3a64f709d2b9bdf0ab"
+  version "2.5.1"
+  sha256 "37bed827e7e3376813224df2cdb130c12f1c973359b6707e38b2b95585ad35ef"
 
   url "https://github.com/JoseValencia125/agents-pixel-dungeon/releases/download/v#{version}/Agents-Pixel-Dungeon-macOS.zip"
   name "Agents Pixel Dungeon"
